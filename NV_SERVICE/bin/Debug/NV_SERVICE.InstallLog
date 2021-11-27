@@ -1,0 +1,15 @@
+﻿Installing assembly 'E:\WindowsService\NV_SERVICE\bin\Debug\NV_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = E:\WindowsService\NV_SERVICE\bin\Debug\NV_SERVICE.exe
+   logfile = E:\WindowsService\NV_SERVICE\bin\Debug\NV_SERVICE.InstallLog
+Installing service NVService...
+Service NVService has been successfully installed.
+Creating EventLog source NVService in log Application...
+Committing assembly 'E:\WindowsService\NV_SERVICE\bin\Debug\NV_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = E:\WindowsService\NV_SERVICE\bin\Debug\NV_SERVICE.exe
+   logfile = E:\WindowsService\NV_SERVICE\bin\Debug\NV_SERVICE.InstallLog

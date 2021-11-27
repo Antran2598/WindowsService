@@ -1,0 +1,12 @@
+E:\WindowsService\NV_SERVICE\bin\Debug\NV_SERVICE.exe.config
+E:\WindowsService\NV_SERVICE\bin\Debug\NV_SERVICE.exe
+E:\WindowsService\NV_SERVICE\bin\Debug\NV_SERVICE.pdb
+E:\WindowsService\NV_SERVICE\bin\Debug\NV_SHARED.dll
+E:\WindowsService\NV_SERVICE\bin\Debug\NV_SHARED.pdb
+E:\WindowsService\NV_SERVICE\bin\Debug\NV_SHARED.dll.config
+E:\WindowsService\NV_SERVICE\obj\Debug\NV_SERVICE.ProjectInstaller.resources
+E:\WindowsService\NV_SERVICE\obj\Debug\NV_SERVICE.csproj.GenerateResource.cache
+E:\WindowsService\NV_SERVICE\obj\Debug\NV_SERVICE.csproj.CoreCompileInputs.cache
+E:\WindowsService\NV_SERVICE\obj\Debug\NV_SERVICE.csproj.CopyComplete
+E:\WindowsService\NV_SERVICE\obj\Debug\NV_SERVICE.exe
+E:\WindowsService\NV_SERVICE\obj\Debug\NV_SERVICE.pdb

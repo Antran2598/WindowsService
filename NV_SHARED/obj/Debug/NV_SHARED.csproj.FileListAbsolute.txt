@@ -1,0 +1,14 @@
+E:\Remoting\NV_SHARED\bin\Debug\NV_SHARED.dll.config
+E:\Remoting\NV_SHARED\bin\Debug\NV_SHARED.dll
+E:\Remoting\NV_SHARED\bin\Debug\NV_SHARED.pdb
+E:\Remoting\NV_SHARED\obj\Debug\NV_SHARED.csproj.AssemblyReference.cache
+E:\Remoting\NV_SHARED\obj\Debug\NV_SHARED.csproj.CoreCompileInputs.cache
+E:\Remoting\NV_SHARED\obj\Debug\NV_SHARED.dll
+E:\Remoting\NV_SHARED\obj\Debug\NV_SHARED.pdb
+E:\WindowsService\NV_SHARED\bin\Debug\NV_SHARED.dll.config
+E:\WindowsService\NV_SHARED\bin\Debug\NV_SHARED.dll
+E:\WindowsService\NV_SHARED\bin\Debug\NV_SHARED.pdb
+E:\WindowsService\NV_SHARED\obj\Debug\NV_SHARED.csproj.AssemblyReference.cache
+E:\WindowsService\NV_SHARED\obj\Debug\NV_SHARED.csproj.CoreCompileInputs.cache
+E:\WindowsService\NV_SHARED\obj\Debug\NV_SHARED.dll
+E:\WindowsService\NV_SHARED\obj\Debug\NV_SHARED.pdb
